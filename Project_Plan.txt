@@ -1,0 +1,5 @@
+Project Plan
+Phase 1 - Requirement Gathering
+Phase 2 - Development
+Phase 3 - Testing
+Phase 4 - Deployment
